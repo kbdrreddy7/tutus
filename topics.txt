@@ -1,0 +1,40 @@
+What is Git?
+
+
+Distributed?
+
+
+Repository?
+
+
+Remote & Remote Repository?  Service Providers?
+
+
+How to initialize?
+
+
+How to set remote repo?
+
+
+Staging & Commit
+
+
+Pull & Push
+
+
+Branches ?
+
+
+Pull request ?
+
+
+Merge & Merge Conflict ?
+
+
+Fork & Rebase ?
+
+
+hooks ?
+
+
+

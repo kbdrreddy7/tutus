@@ -1,0 +1,50 @@
+
+What is Git?
+    -Tool/Software which keeps track of file chages from specific point of time
+    -Git is a free and open source distributed version control system designed
+
+
+Distributed?
+
+Repository?
+
+Remote & Remote Repository?
+
+How to initialize?
+    $ git init    ## locally
+    $ git cline url  ## cloning existing one 
+
+
+How to set remote repo?
+   $ git remote set origin url   ## origin or any_name
+
+Staging & Commit
+
+   $ git add -A     ## adding to staging
+   $ git commit -a -m " message "   ## commiting
+
+ to/from server push/pull
+   
+   $ git push origin branch_name  # pushing to remote
+
+      `
+         $ git push -u origin branch_name  ## setting default branch
+         $ git push origin   # will push to default branch
+      ` 
+
+   $ git pull origin branch_name  # pulling from remote
+
+
+
+Branches ?
+
+Pull request ?
+
+
+Merge & Merge Conflict ?
+
+Fork & Rebase ?
+
+
+hooks ?
+
